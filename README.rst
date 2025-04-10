@@ -1,6 +1,5 @@
-=====================
-DSC210 : Optimization
-=====================
+DSC 210 - Numerical Linear Algebra (Optimization Project)
+----------------------------------
 
 This module provides code for benchmarking the performance of optimization methods and for simulating datasets.
 
@@ -25,3 +24,9 @@ Installation
 
     $ git clone https://github.com/ryanhammonds/dsc210
     $ pip install -e .
+
+Course Project
+------------
+
+[`slides <./docs/Hammonds_Riegner_Pham_Optimization_Methods_Endterm_Presentation.pdf>`_]
+[`report <./docs/Hammonds_Riegner_Pham_Optimization_Methods_Midterm.pdf>`_]
